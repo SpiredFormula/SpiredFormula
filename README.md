@@ -7,7 +7,7 @@ and my twitch: https://www.twitch.tv/spiredformula
 
 I don't really use these tho....
 
-and here are my stats
+
 ![](https://raw.githubusercontent.com/SpiredFormula/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/SpiredFormula/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
