@@ -1,4 +1,4 @@
-###🔥Hello and welcome to my profile🔥
+🔥Hello and welcome to my profile🔥
 
 Here you will find stuff that I make when I'm bored and also school projects
 
