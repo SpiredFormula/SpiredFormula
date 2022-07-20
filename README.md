@@ -11,7 +11,7 @@ I don't really use these tho....
 
 and here is my stats
 
-
+![](https://komarev.com/ghpvc/?username=SpiredFormula)
 ![](https://raw.githubusercontent.com/SpiredFormula/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/SpiredFormula/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
